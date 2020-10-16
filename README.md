@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 📫 How to reach me: b0aeiou@gmail.com
+- 📫 How to reach me: b0aeiou@gmail.com, b0aeiou@naver.com
 
 <!--
 **HoonK212/HoonK212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
