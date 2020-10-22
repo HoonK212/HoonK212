@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 
+
+- 👋 My Profile : [깃허브 블로그 About me](http://www.google.co.kr)
 - 📫 How to reach me: b0aeiou@gmail.com, b0aeiou@naver.com
 
 <!--
