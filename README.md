@@ -1,6 +1,6 @@
 ### Hi there 
 
-- 👋 My Profile : [깃허브 블로그 About me](http://www.google.co.kr)
+- 👋 My Profile : [GitHub_Blog - About me](https://hoonk212.github.io/about_me)
 - 📫 How to reach me: b0aeiou@gmail.com, b0aeiou@naver.com
 
 <!--
